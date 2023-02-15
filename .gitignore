@@ -1,0 +1,8 @@
+.venv
+.ipynb_checkpoints
+__pycache__
+results
+report.html
+*.parquet
+*.hdf5
+*.json
